@@ -4,6 +4,11 @@
     &:hover{
         cursor: pointer;
         color: v.$color_black;
+    }}
+%hover-light{
+    &:hover{
+        cursor: pointer;
+        color: v.$color_white;
     }
 }
 %hover-black-icon{
